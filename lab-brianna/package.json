@@ -20,7 +20,7 @@
     "javascript"
   ],
   "author": "Brianna Burrows",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/brisourceful/lab-03-fs-readfile/issues"
   },
